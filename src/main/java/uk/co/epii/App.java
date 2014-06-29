@@ -1,4 +1,4 @@
-package epii.co.uk;
+package uk.co.epii;
 
 /**
  * Hello world!

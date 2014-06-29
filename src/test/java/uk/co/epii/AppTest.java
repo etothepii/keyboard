@@ -1,4 +1,4 @@
-package epii.co.uk;
+package uk.co.epii;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
